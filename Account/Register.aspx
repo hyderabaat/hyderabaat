@@ -1,4 +1,4 @@
-﻿<%@ page title="Register" language="VB" masterpagefile="~/Site.Master" autoeventwireup="true" inherits="Account_Register, App_Web_ycpytmtl" %>
+﻿<%@ Page Title="Register" Language="VB" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeFile="Register.aspx.vb" Inherits="Account_Register" %>
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <h2><%: Title %>.</h2>

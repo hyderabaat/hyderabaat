@@ -1,4 +1,4 @@
-﻿<%@ page language="VB" masterpagefile="~/Site.master" autoeventwireup="true" inherits="Account_RegisterExternalLogin, App_Web_ycpytmtl" async="true" %>
+﻿<%@ Page Language="VB" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="RegisterExternalLogin.aspx.vb" Inherits="Account_RegisterExternalLogin" Async="true" %>
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <h3>Register with your <%: ProviderName %> account</h3>

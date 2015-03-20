@@ -1,4 +1,4 @@
-﻿<%@ control language="VB" autoeventwireup="true" inherits="ViewSwitcher, App_Web_mamtsmz5" %>
+﻿<%@ Control Language="VB" AutoEventWireup="true" CodeFile="ViewSwitcher.ascx.vb" Inherits="ViewSwitcher" %>
 <div id="viewSwitcher">
     <%: CurrentView %> view | <a href="<%: SwitchUrl %>" data-ajax="false">Switch to <%: AlternateView %></a>
 </div>
