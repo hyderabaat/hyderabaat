@@ -1,4 +1,4 @@
-﻿<%@ Master Language="VB" AutoEventWireup="true" CodeFile="Site.master.vb" Inherits="SiteMaster" %>
+﻿<%@ master language="VB" autoeventwireup="true" inherits="SiteMaster, App_Web_mamtsmz5" %>
 
 <!DOCTYPE html>
 

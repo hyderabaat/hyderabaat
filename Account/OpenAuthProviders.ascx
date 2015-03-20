@@ -1,4 +1,4 @@
-﻿<%@ Control Language="VB" AutoEventWireup="true" CodeFile="OpenAuthProviders.ascx.vb" Inherits="OpenAuthProviders" %>
+﻿<%@ control language="VB" autoeventwireup="true" inherits="OpenAuthProviders, App_Web_ycpytmtl" %>
 
 <div id="socialLoginList">
     <h4>Use another service to log in.</h4>
